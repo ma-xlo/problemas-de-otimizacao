@@ -11,10 +11,10 @@ Um recipiente cilíndrico, aberto em cima, deve ter a capacidade de 375π cm³. 
 
 ##### Solução:
 
-Base: 36.61cm²
-Lateral: 219.69cm²
-Custo da base: R$5.49
-Custo da lateral: R$10.98
+Base: 36.61cm²  
+Lateral: 219.69cm²  
+Custo da base: R$5.49  
+Custo da lateral: R$10.98  
 Custo da embalagem: R$16.48
 
 #### Problema 2:
@@ -22,8 +22,8 @@ Pretende-se estender um cabo de uma usina de força à margem de um rio de 900m 
 
 ##### Solução:
 
-Menor Custo: R$14700,00
-Por terra: R$1800,00
+Menor Custo: R$14700,00  
+Por terra: R$1800,00  
 Por rio: R$1500,00
 
 ![image info](./src/img/demo.png)
