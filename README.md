@@ -2,6 +2,9 @@
 ## Problemas de Otimização
 Aplicação feita em C que resolve dois problemas propostos em sala da Disciplina de Cálculo I do curso de Análise e Desenvolvimento de Sistemas ofertado pelo Instituto Federal de São Paulo.
 
+É aconselhável compilar e executar o programa em um sistema derivado de unix ou entao pelo site https://www.onlinegdb.com/
+
+
 #### Problema 1:
 
 Um recipiente cilíndrico, aberto em cima, deve ter a capacidade de 375π cm³. O Custo do material usado para a base do recipiente é de R$0,15 por cm² e custo do material usado na lateral é de R$0,05 por cm². Se não há perda de material, determine as dimensões que minimizam o custo do material para construí-lo.
@@ -24,3 +27,4 @@ Por terra: R$1800,00
 Por rio: R$1500,00
 
 ![image info](./src/img/demo.png)
+
