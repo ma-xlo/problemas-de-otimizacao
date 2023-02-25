@@ -1,6 +1,6 @@
 # Aplicação - Calcúlo I
 ## Problemas de Otimização
-Aplicação feita em C que resolve dois problemas propostos em sala da Disciplina de Cálculo I do curso de Análise e Desenvolvimento de Sistemas ofertado pelo Instituto Federal de São Paulo.
+Aplicação feita em C++ que resolve dois problemas propostos em sala da Disciplina de Cálculo I do curso de Análise e Desenvolvimento de Sistemas ofertado pelo Instituto Federal de São Paulo.
 
 É aconselhável compilar e executar o programa em um sistema derivado de unix ou entao pelo site https://www.onlinegdb.com/
 
