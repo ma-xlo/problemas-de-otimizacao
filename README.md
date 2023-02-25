@@ -26,5 +26,7 @@ Menor Custo: R$14700,00
 Por terra: R$1800,00  
 Por rio: R$1500,00
 
-![image info](./src/img/demo.png)
+<div align="center">
+  <img src="./src/img/demo.png" alt="Imagem da aplicação">
+</div>
 
